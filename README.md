@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Sachin066
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning bsc cs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi,
+## I'm Sachin Saroj,
 
-<!---
-Sachin066/Sachin066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=Sachin066") 
+&nbsp; ![Java](https://badges.aleen42.com/src/java.svg)
+&nbsp; ![Python](https://badges.aleen42.com/src/python_dfc.svg)
+&nbsp; ![JavaScript](https://badges.aleen42.com/src/javascript_dfc.svg)
+&nbsp; ![NodeJS](https://badges.aleen42.com/src/node_dfc.svg)
+
+- **<ins>Student</ins>** at the University of Mumbai.
+- I am currently learning **<ins>Github</ins>** and **<ins>Android Development</ins>**.
+- main programming language is **<ins>Kotlin</ins>**.
+- I also have knowledge of other programming languages such as C++, Python, JavaScript, NodeJS, Html, CSS, Kotlin. 
+
+--------
+
+## How to reach me
+
+<a href="https://www.linkedin.com/in/sachin-saroj-86206b230/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+&emsp;
+<a href="https://twitter.com/Programmer__066">![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=blue)</a>
+- ---
